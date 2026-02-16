@@ -78,7 +78,3 @@ Use the search bar and filter dropdowns (Priority/Date) at the top of the board 
 
 ### 4. Tracking History
 Click the "Activity Log" button in the top right to open a sliding panel. This shows a chronological list of everything that has happened on your board during your session.
-
-## 📄 License
-
-This project is open-source and available under the MIT License.
